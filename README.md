@@ -3,10 +3,6 @@
 
  ## Acredito que a tecnologia pode transformar o mundo, e me esforço para estar sempre atualizado nas últimas tendências e boas práticas. Além disso, gosto de enfrentar desafios e resolver problemas, o que me motiva a continuar aprendendo e crescendo na área.
 
-<div>
- <a href="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
-</div>
-
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianooutlook&layout=donut-vertical)

@@ -1,16 +1,34 @@
-## Hi there 👋
+## Ola pessoal, me chamo Juliano
+## Bem vindo ao meu perfil GitHub 
 
-<!--
-**Julianooutlook/Julianooutlook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## Acredito que a tecnologia pode transformar o mundo, e me esforço para estar sempre atualizado nas últimas tendências e boas práticas. Além disso, gosto de enfrentar desafios e resolver problemas, o que me motiva a continuar aprendendo e crescendo na área.
 
-Here are some ideas to get you started:
+<div>
+ <a href="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianooutlook&layout=donut-vertical)
+
+<div>
+<a href="https://github.com/Julianooutlook?tab=repositories">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianooutlook&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Julianooutlook&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="80">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80">
+</div>
+<hr>
+<hr>
+
+<div>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>

@@ -1,4 +1,4 @@
-## Ola pessoal, me chamo Juliano
+
 ## Bem vindo ao meu perfil GitHub :octocat:
 
  ## Acredito que a tecnologia pode transformar o mundo, e me esforço para estar sempre atualizado nas últimas tendências e boas práticas. Além disso, gosto de enfrentar desafios e resolver problemas, o que me motiva a continuar aprendendo e crescendo na área.

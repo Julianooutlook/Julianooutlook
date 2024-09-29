@@ -3,7 +3,7 @@
 
  ## Acredito que a tecnologia pode transformar o mundo, e me esforço para estar sempre atualizado nas últimas tendências e boas práticas. Além disso, gosto de enfrentar desafios e resolver problemas, o que me motiva a continuar aprendendo e crescendo na área.
 
- :globe_with_meridians:Este link :arrow_right: <a href="https://julianooutlook.github.io/interfaceWeb/">
+ :globe_with_meridians:[Este link] :arrow_right:(https://julianooutlook.github.io/interfaceWeb/)
  leva para uma interface web que consome os dados da API<a href="http://randomuser.me">  :white_check_mark: Tarefa da https://www.stackx.com.br/
 :globe_with_meridians:
 

@@ -4,7 +4,7 @@
  ## Acredito que a tecnologia pode transformar o mundo, e me esforço para estar sempre atualizado nas últimas tendências e boas práticas.
 
  :globe_with_meridians:
- ## Este link :arrow_right:(https://julianooutlook.github.io/interfaceWeb/), leva para uma interface web que consome os dados da API(http://randomuser.me) e grava os dados em banco, também busca os dados e deleta usuários  :white_check_mark: Tarefa da https://www.stackx.com.br/
+ ## Este link :arrow_right:(https://julianooutlook.github.io/interfaceWeb/), leva para uma interface web que consome os dados da API(http://randomuser.me) 
 :globe_with_meridians:
 <div>
 <a href="https://github.com/Julianooutlook?tab=repositories">

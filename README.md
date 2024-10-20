@@ -1,7 +1,12 @@
 
 ## Bem vindo ao meu perfil GitHub :octocat:
 
- ## Acredito que a tecnologia pode transformar o mundo, e me esforço para estar sempre atualizado nas últimas tendências e boas práticas.
+ ##Tenho plena convicção de que a tecnologia é capaz de moldar o futuro, e me dedico a estar constantemente atualizado com as inovações e melhores práticas para contribuir com essa transformação..
+
+##Logo abaixo alguns projetos
+
+##Projeto Api :arrow_right: (https://julianooutlook.github.io/massas-produtos/)
+
 
  :globe_with_meridians:
  ## Este link :arrow_right:(https://julianooutlook.github.io/interfaceWeb/), leva para uma interface web que consome os dados da API(http://randomuser.me) 

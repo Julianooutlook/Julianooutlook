@@ -5,12 +5,12 @@
 
 ## Logo abaixo alguns projetos
 
-## Projeto Api :arrow_right: (https://julianooutlook.github.io/massas-produtos/)
+## *Projeto Api* :arrow_right: (https://julianooutlook.github.io/massas-produtos/)
 :floppy_disk: Repositorio (https://github.com/Julianooutlook/server-produtos)
 
 
  :globe_with_meridians:
- ## Este link :arrow_right:(https://julianooutlook.github.io/interfaceWeb/), leva para uma interface web que consome os dados da API(http://randomuser.me) 
+ ## *Este link* :arrow_right:(https://julianooutlook.github.io/interfaceWeb/), *leva para uma interface web que consome os dados da API*(http://randomuser.me) 
 :globe_with_meridians:
 <div>
 <a href="https://github.com/Julianooutlook?tab=repositories">

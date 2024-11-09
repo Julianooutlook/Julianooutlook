@@ -6,7 +6,7 @@
 ## Logo abaixo alguns projetos
 
 ## *Projeto Api* :arrow_right: (https://julianooutlook.github.io/massas-produtos/)
-:floppy_disk: Repositorio (https://github.com/Julianooutlook/server-produtos)
+
 
 
  :globe_with_meridians:

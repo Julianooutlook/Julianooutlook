@@ -6,7 +6,7 @@
 ## Logo abaixo alguns projetos
 
 ## Link repositorio Novo Airbnb https://github.com/Julianooutlook/novo-airbnb-database
-
+:globe_with_meridians:
 ## *Projeto Api* :arrow_right: (https://julianooutlook.github.io/produtos/)
 
 

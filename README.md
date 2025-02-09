@@ -4,25 +4,13 @@
 ## Tenho plena convicção de que a tecnologia é capaz de moldar o futuro, e me dedico a estar constantemente atualizado com as inovações e melhores práticas para contribuir com essa transformação..
 
 ## Desafio Modulo Docker Stackx
-https://github.com/Julianooutlook/desafio-modulo-docker-stackx
+## https://github.com/Julianooutlook/desafio-modulo-docker-stackx
 
 
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
 ## Link repositorio Novo Airbnb https://github.com/Julianooutlook/novo-airbnb-database
 ## Link repositorio Tabelas Em query https://github.com/Julianooutlook/Tabelas-Em-Query
 ## Link repositorio Crud database https://github.com/Julianooutlook/Item-Crud-Database

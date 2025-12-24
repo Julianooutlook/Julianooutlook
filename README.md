@@ -6,9 +6,6 @@ Ver Projeto https://julianooutlook.github.io/quiz/
 <br>
 Ver codigo https://github.com/Julianooutlook/quiz
 
-## Layout  do clone Portfolio 
-https://github.com/Julianooutlook/stackxeducacao-stackx-2023-modulo-front-end-projeto-final-css-2-modulo-Front-End-Projeto-final-css
-
 ## Clone Portifolio
 Ver Projeto<br>
 https://julianooutlook.github.io/Projeto-Final-de-HTML/

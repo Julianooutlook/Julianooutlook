@@ -1,12 +1,12 @@
 # 📌 Bem vindo ao meu perfil GitHub  
 ### Veja meus projetos de aprendizado ⚙️
 
-## QUIZ UTILIZANDO HTML - CSS - JS 
+## `QUIZ UTILIZANDO HTML - CSS - JS` 
 Ver Projeto https://julianooutlook.github.io/quiz/
 <br>
 Ver codigo https://github.com/Julianooutlook/quiz
 
-## Clone Portifolio
+## `Clone Portifolio`
 Ver Projeto<br>
 https://julianooutlook.github.io/Projeto-Final-de-HTML/
 <br>
@@ -14,11 +14,11 @@ Ver Repositório
 <br>
 https://github.com/Julianooutlook/Projeto-Final-de-HTML
 
-## Galeria Dinâmica
+## `Galeria Dinâmica`
 https://github.com/Julianooutlook/galeria-de-imagens
 <br>
 <br>
-## Documentação do código CSS
+## `Documentação do código CSS`
 https://github.com/Julianooutlook/Documenta-o-CSS
 <br>
 <br>
